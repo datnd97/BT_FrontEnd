@@ -1,0 +1,58 @@
+a.header-logo-link {
+    width: 10%;
+}
+
+img.header-logo {
+    width: 100%;
+}
+.banner-img{
+}
+.bm-img{
+    background:url("img/Surface_Home_Hero_HL_Image_1_V1_en-us.jpg") no-repeat ;
+    background-size:cover ;
+}
+.pd{
+   height: 85vh;
+}
+.px{
+    padding-top: 120px;
+}
+.ok{
+    width: 100%;
+}
+.ki{
+    height: 50vh;
+}
+.img-1{
+    background: url("img/Surface_Home_Mosaic_Block1_image3_V2_en-us.jpg") no-repeat center;
+    height: 763px;
+    background-size:cover ;
+    margin-bottom: 5px;
+}
+.img-2{
+    background: url("img/Surface_Home_Mosaic_Block1_image1_V2_en-us.jpg") no-repeat center;
+    height: 763px;
+    background-size:cover ;
+}
+
+.box-1{
+    background-color: #e5e5e5;
+    height: 27.74vw;
+    width: 100%;
+    position: relative;
+}
+.img-3{
+   position: absolute;
+   right: 0;
+    height: 100%;
+}
+.img-4{
+    margin-top: 5px;
+    background: url("img/Surface_Home_Mosaic_Block1_image4_V2_en-us.jpg") no-repeat center;
+    height: 763px;
+    background-size:cover ;
+
+}
+.xs{
+    margin-top: 5px;
+}
